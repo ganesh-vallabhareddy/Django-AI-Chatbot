@@ -8,7 +8,7 @@ from .models import Chat
 from django.utils import timezone
 
 
-openai_api_key = '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'
+openai_api_key = '<enter your openai api key>'
 openai.api_key=openai_api_key
 prompt_msg='Reply to the messages like you are an AI Chatbot.' 
 
