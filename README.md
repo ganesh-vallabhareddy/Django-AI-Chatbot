@@ -101,6 +101,6 @@ To run the application, you'll need:
   <tr>
    <td valign="top"><img src="https://github.com/ganesh-vallabhareddy/Django-AI-Chatbot/assets/110174850/0ac043a7-3121-4bf3-897f-818395d12850"></td>
     <td valign="top"><img src="https://github.com/ganesh-vallabhareddy/Django-AI-Chatbot/assets/110174850/e7b52b4f-7e01-4e76-83bc-b3f237c9cd55"></td>
-    </td>
+   
   </tr>
  </table>
