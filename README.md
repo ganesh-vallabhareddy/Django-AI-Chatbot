@@ -72,6 +72,12 @@ To run the application, you'll need:
   <tr>
     <td valign="top"><img src="https://github.com/ganesh-vallabhareddy/Django-AI-Chatbot/assets/110174850/87cbec75-303f-4acf-8c7a-403082476568"></td>
     <td valign="top"><img src="https://github.com/ganesh-vallabhareddy/Django-AI-Chatbot/assets/110174850/4fe7285f-ae68-4a1c-bde7-97b63a2e67fb"></td>
+    </td>
+  </tr>
+ </table>
+ <table>
+
+  <tr>
     <td valign="top"><img src="https://github.com/ganesh-vallabhareddy/Django-AI-Chatbot/assets/110174850/72ea9663-43f9-4c1b-9c8d-0522a76a1f0e"></td>
     <td valign="top"><img src="https://github.com/ganesh-vallabhareddy/Django-AI-Chatbot/assets/110174850/bb8526ca-0a2f-4308-87f9-fcb1f7bb8cbf"></td>
     </td>
@@ -86,7 +92,14 @@ To run the application, you'll need:
   <tr>
     <td valign="top"><img src="https://github.com/ganesh-vallabhareddy/Django-AI-Chatbot/assets/110174850/16faaa83-8f1b-4e61-a9f3-19227f5c2c04"></td>
     <td valign="top"><img src="https://github.com/ganesh-vallabhareddy/Django-AI-Chatbot/assets/110174850/01adb947-81ab-46af-9ff2-aa8d9a700244"></td>
-    <td valign="top"><img src="https://github.com/ganesh-vallabhareddy/Django-AI-Chatbot/assets/110174850/0ac043a7-3121-4bf3-897f-818395d12850"></td>
+  
+    </td>
+  </tr>
+ </table>
+  <table>
+
+  <tr>
+   <td valign="top"><img src="https://github.com/ganesh-vallabhareddy/Django-AI-Chatbot/assets/110174850/0ac043a7-3121-4bf3-897f-818395d12850"></td>
     <td valign="top"><img src="https://github.com/ganesh-vallabhareddy/Django-AI-Chatbot/assets/110174850/e7b52b4f-7e01-4e76-83bc-b3f237c9cd55"></td>
     </td>
   </tr>
