@@ -92,8 +92,7 @@ To run the application, you'll need:
   <tr>
     <td valign="top"><img src="https://github.com/ganesh-vallabhareddy/Django-AI-Chatbot/assets/110174850/16faaa83-8f1b-4e61-a9f3-19227f5c2c04"></td>
     <td valign="top"><img src="https://github.com/ganesh-vallabhareddy/Django-AI-Chatbot/assets/110174850/01adb947-81ab-46af-9ff2-aa8d9a700244"></td>
-  
-    </td>
+ 
   </tr>
  </table>
   <table>
