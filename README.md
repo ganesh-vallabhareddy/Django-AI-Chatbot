@@ -6,18 +6,18 @@ This is a simple AI Chatbot built using Django, integrated with the OpenAI GPT-3
 The AI Chatbot uses the power of OpenAI's GPT-3.5 model to provide human-like responses to user queries. It's designed to be intuitive and user-friendly, allowing users to engage in natural conversations with the AI.
 
 ## Features
-- User Authentication: Users can log in or register to access the chatbot.
-- Registration: New users can create an account with a unique username and password.
-- Chat Interface: Once logged in, users can interact with the chatbot through a simple messaging interface.
-- AI Responses: The chatbot uses the GPT-3.5 model to generate responses based on user input, providing realistic and contextually relevant answers.
-- Chat History: The application saves chat history, allowing users to revisit previous conversations when logged in back.
-- Database Usage: Utilizes a SQLite database to store user information and chat history
+- **User Authentication**: Users can log in or register to access the chatbot.
+- **Registration**: New users can create an account with a unique username and password.
+- **Chat Interface**: Once logged in, users can interact with the chatbot through a simple messaging interface.
+- **AI Responses**: The chatbot uses the GPT-3.5 model to generate responses based on user input, providing realistic and contextually relevant answers.
+- **Chat History**: The application saves chat history, allowing users to revisit previous conversations when logged in back.
+- **Database Usage**: Utilizes a SQLite database to store user information and chat history
 
 ### More about Database Usage
-- SQLite Database: Default database backend provided by Django.
-- Models: Defines database models for storing user information and chat history.
-- ORM: Utilizes Django's ORM (Object-Relational Mapping) for interacting with the database.
-- Efficient Storage: Ensures efficient storage and retrieval of user data and chat logs.
+- **SQLite Database**: Default database backend provided by Django.
+- **Models**: Defines database models for storing user information and chat history.
+- **ORM**: Utilizes Django's ORM (Object-Relational Mapping) for interacting with the database.
+- **Efficient Storage**: Ensures efficient storage and retrieval of user data and chat logs.
 
 ## Usage
 1. **Login/Register**: Upon accessing the application, users will be prompted to either log in with existing credentials or register for a new account.
@@ -26,9 +26,9 @@ The AI Chatbot uses the power of OpenAI's GPT-3.5 model to provide human-like re
 
 ## Implementation Details
 ### Technologies Used
-- Python/Django: Backend framework for building the web application.
-- OpenAI API: Integrated for AI-powered chatbot responses.
-- HTML/CSS: Frontend design and user interface.
+- **Python/Django**: Backend framework for building the web application.
+- **OpenAI API**: Integrated for AI-powered chatbot responses.
+- **HTML/CSS**: Frontend design and user interface.
 
 ### Important files and their details
 - **models.py**: Defines the database models for storing user messages and AI responses.
@@ -54,42 +54,33 @@ To run the application, you'll need:
 ### Screenshots: Refer to the screenshots directory for visual representations of the application's user interface and features.
 
 - Register / Login page
-  
 <table>
-
   <tr>
-    <td valign="top"><img src="![Screenshot 2024-02-18 234232](https://github.com/ganesh-vallabhareddy/Django-AI-Chatbot/assets/110174850/9c83559f-3e58-4b38-8923-dba4c09d1f27)"></td>
-    <td valign="top"><img src="![Screenshot 2024-02-18 234210](https://github.com/ganesh-vallabhareddy/Django-AI-Chatbot/assets/110174850/de6a88c1-1643-4b26-b419-6c69a8a9f252)"></td>
-    </td>
+    <td valign="top"><img src="https://github.com/ganesh-vallabhareddy/Django-AI-Chatbot/blob/assets/110174850/9c83559f-3e58-4b38-8923-dba4c09d1f27.png?raw=true" alt="Screenshot 2024-02-18 234232"></td>
+    <td valign="top"><img src="https://github.com/ganesh-vallabhareddy/Django-AI-Chatbot/blob/assets/110174850/de6a88c1-1643-4b26-b419-6c69a8a9f252.png?raw=true" alt="Screenshot 2024-02-18 234210"></td>
   </tr>
- </table>
+</table>
  
  &nbsp; 
  
- - Chatbot interface
+- Chatbot interface
 <table>
-
   <tr>
-    <td valign="top"><img src="![Screenshot 2024-02-18 233913](https://github.com/ganesh-vallabhareddy/Django-AI-Chatbot/assets/110174850/87cbec75-303f-4acf-8c7a-403082476568)"></td>
-    <td valign="top"><img src="![Screenshot 2024-02-18 233936](https://github.com/ganesh-vallabhareddy/Django-AI-Chatbot/assets/110174850/4fe7285f-ae68-4a1c-bde7-97b63a2e67fb)"></td>
-    <td valign="top"><img src="![Screenshot 2024-02-18 234005](https://github.com/ganesh-vallabhareddy/Django-AI-Chatbot/assets/110174850/72ea9663-43f9-4c1b-9c8d-0522a76a1f0e)"></td>
-    <td valign="top"><img src="![Screenshot 2024-02-19 002719](https://github.com/ganesh-vallabhareddy/Django-AI-Chatbot/assets/110174850/bb8526ca-0a2f-4308-87f9-fcb1f7bb8cbf)"></td>
-    </td>
+    <td valign="top"><img src="https://github.com/ganesh-vallabhareddy/Django-AI-Chatbot/blob/assets/110174850/87cbec75-303f-4acf-8c7a-403082476568.png?raw=true" alt="Screenshot 2024-02-18 233913"></td>
+    <td valign="top"><img src="https://github.com/ganesh-vallabhareddy/Django-AI-Chatbot/blob/assets/110174850/4fe7285f-ae68-4a1c-bde7-97b63a2e67fb.png?raw=true" alt="Screenshot 2024-02-18 233936"></td>
+    <td valign="top"><img src="https://github.com/ganesh-vallabhareddy/Django-AI-Chatbot/blob/assets/110174850/72ea9663-43f9-4c1b-9c8d-0522a76a1f0e.png?raw=true" alt="Screenshot 2024-02-18 234005"></td>
+    <td valign="top"><img src="https://github.com/ganesh-vallabhareddy/Django-AI-Chatbot/blob/assets/110174850/bb8526ca-0a2f-4308-87f9-fcb1f7bb8cbf.png?raw=true" alt="Screenshot 2024-02-19 002719"></td>
   </tr>
- </table>
+</table>
  
  &nbsp; 
  
 - About Django admin panel
 <table>
-
   <tr>
-    <td valign="top"><img src="https://github.com/ganesh-vallabhareddy/Django-AI-Chatbot/assets/110174850/16faaa83-8f1b-4e61-a9f3-19227f5c2c04"></td>
-
-    <td valign="top"><img src="![Screenshot 2024-02-18 234031](https://github.com/ganesh-vallabhareddy/Django-AI-Chatbot/assets/110174850/16faaa83-8f1b-4e61-a9f3-19227f5c2c04)"></td>
-    <td valign="top"><img src="![Screenshot 2024-02-18 234114](https://github.com/ganesh-vallabhareddy/Django-AI-Chatbot/assets/110174850/01adb947-81ab-46af-9ff2-aa8d9a700244))"></td>
-    <td valign="top"><img src="![Screenshot 2024-02-18 234130](https://github.com/ganesh-vallabhareddy/Django-AI-Chatbot/assets/110174850/0ac043a7-3121-4bf3-897f-818395d12850)"></td>
-    <td valign="top"><img src="![Screenshot 2024-02-18 234157](https://github.com/ganesh-vallabhareddy/Django-AI-Chatbot/assets/110174850/e7b52b4f-7e01-4e76-83bc-b3f237c9cd55)"></td>
-    </td>
+    <td valign="top"><img src="https://github.com/ganesh-vallabhareddy/Django-AI-Chatbot/blob/assets/110174850/16faaa83-8f1b-4e61-a9f3-19227f5c2c04.png?raw=true" alt="Screenshot 2024-02-18 234031"></td>
+    <td valign="top"><img src="https://github.com/ganesh-vallabhareddy/Django-AI-Chatbot/blob/assets/110174850/01adb947-81ab-46af-9ff2-aa8d9a700244.png?raw=true" alt="Screenshot 2024-02-18 234114"></td>
+    <td valign="top"><img src="https://github.com/ganesh-vallabhareddy/Django-AI-Chatbot/blob/assets/110174850/0ac043a7-3121-4bf3-897f-818395d12850.png?raw=true" alt="Screenshot 2024-02-18 234130"></td>
+    <td valign="top"><img src="https://github.com/ganesh-vallabhareddy/Django-AI-Chatbot/blob/assets/110174850/e7b52b4f-7e01-4e76-83bc-b3f237c9cd55.png?raw=true" alt="Screenshot 2024-02-18 234157"></td>
   </tr>
- </table>
+</table>
