@@ -84,6 +84,8 @@ To run the application, you'll need:
 <table>
 
   <tr>
+    <td valign="top"><img src="https://github.com/ganesh-vallabhareddy/Django-AI-Chatbot/assets/110174850/16faaa83-8f1b-4e61-a9f3-19227f5c2c04"></td>
+
     <td valign="top"><img src="![Screenshot 2024-02-18 234031](https://github.com/ganesh-vallabhareddy/Django-AI-Chatbot/assets/110174850/16faaa83-8f1b-4e61-a9f3-19227f5c2c04)"></td>
     <td valign="top"><img src="![Screenshot 2024-02-18 234114](https://github.com/ganesh-vallabhareddy/Django-AI-Chatbot/assets/110174850/01adb947-81ab-46af-9ff2-aa8d9a700244))"></td>
     <td valign="top"><img src="![Screenshot 2024-02-18 234130](https://github.com/ganesh-vallabhareddy/Django-AI-Chatbot/assets/110174850/0ac043a7-3121-4bf3-897f-818395d12850)"></td>
